@@ -1,5 +1,5 @@
 
-![This is an image](./profile/banner.png)
+![This is an image](./profile/banner2.png)
 
 
 # Global Software Development
