@@ -1,5 +1,5 @@
 
-![This is an image](https://github.com/SE-371-475-Fall2022/.github/blob/main/profile/banner2.jpeg)
+![This is an image](https://github.com/SE-371-475-Fall2022/.github/blob/main/profile/banner2.jpeg | width=100)
 
 
 # Global Software Development
