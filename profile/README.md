@@ -1,3 +1,7 @@
+
+![This is an image](/banner.png)
+
+
 # Global Software Development
 ### SE-371-475-Fall2022
 
