@@ -1,6 +1,6 @@
 
 <!-- ![SE-371-475](https://github.com/SE-371-475-Fall2022/.github/blob/main/profile/banner2.jpeg) -->
-<img src="https://github.com/SE-371-475-Fall2022/.github/blob/main/profile/banner2.jpeg" width="200">
+<img src="https://github.com/SE-371-475-Fall2022/.github/blob/main/profile/banner2.jpeg" width="400">
 
 # Global Software Development
 ### SE-371-475-Fall2022
