@@ -1,15 +1,15 @@
 
 <!-- ![SE-371-475](https://github.com/SE-371-475-Fall2022/.github/blob/main/profile/banner2.jpeg) -->
-<img src="https://github.com/SE-371-475-Fall2022/.github/blob/main/profile/banner2.jpeg" width="400">
+<img src="https://github.com/SE-371-475/.github/blob/main/profile/banner3.jpeg" width="400">
 
 # Global Software Development
-### SE-371-475-Fall2022
+### SE-371-475
 
 ## Hi there 👋
 
 **Here are some ideas to get you started:**
 
-🙋‍♀️ This is a GitHub Team Repository for SE371/475 Fall 2022.
+🙋‍♀️ This is a GitHub Team Repository for SE371/475.
 
 👆 All enrolled students will be invited to this team account with specific permission and role. 
 
